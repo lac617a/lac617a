@@ -2,7 +2,7 @@
 <h2> Hi, I'm Dominyel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-
+<p align="center"><a href="https://github.com/xliee" target="_blank"><img src="https://komarev.com/ghpvc/?username=xliee&style=flat-square&color=blue" alt=""></a></p>
 ```javascript
 const lac617a = {
     pronouns: "He" | "Yoydev",
