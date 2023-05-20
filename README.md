@@ -6,24 +6,23 @@
 
 ```javascript
 const lac617a = {
-    pronouns: "He" | "Yoydev",
+    pronouns: "Yoydev",
     code: ["Javascript", "Typescript", "HTML", "CSS", "SASS"],
-    askMeAbout: ["web dev", "tech", "app dev"],
+    askMeAbout: ["web dev", "tech", "app dev", "dev lead"],
     technologies: {
         mobileApp: ["React Native"],
         frontEnd: {
             js: ["Vue", "Nuxt", "React", "Next", "Stencil"],
-            css: ["materialize", "vuetify", "bootstrap", "Bulma"]
+            css: ["materialize", "vuetify", "bootstrap", "Bulma", "native-piece"]
         },
         backEnd: {
-            js: ["node", "express", "graphql"],
-            python: ["Django"]
+            js: ["node", "express", "graphql", "Nestjs"],
         },
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["mongoDB", "MySql", "sqlite", "PostgreSQL"],
         misc: ["Firebase"]
     },
     architecture: ["Serverless Architecture", "microservices", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing a Framework with stenciljs",
+    currentProject: "I am developing a Framework https://native-piece.com/",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
