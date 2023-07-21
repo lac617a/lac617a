@@ -4,19 +4,19 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 <a href="https://github.com/lac617a" target="_blank"><img src="https://komarev.com/ghpvc/?username=lac617a&style=flat-square&color=blue" alt="style"></a>
 
-```javascript
-const lac617a = {
+```ts
+const YOYDEV = {
     pronouns: "Yoydev",
     code: ["Javascript", "Typescript", "HTML", "CSS", "SASS"],
     askMeAbout: ["web dev", "tech", "app dev", "dev lead"],
     technologies: {
         mobileApp: ["React Native"],
         frontEnd: {
-            js: ["Vue", "Nuxt", "React", "Next", "Stencil"],
-            css: ["materialize", "vuetify", "bootstrap", "Bulma", "native-piece"]
+            js: ["React", "Nextjs"],
+            css: ["native-piece", "emotion/styled", "styled-components"]
         },
         backEnd: {
-            js: ["node", "express", "graphql", "Nestjs"],
+            js: ["Node", "Express", "Nestjs"],
         },
         databases: ["mongoDB", "MySql", "sqlite", "PostgreSQL"],
         misc: ["Firebase"]
@@ -24,7 +24,7 @@ const lac617a = {
     architecture: ["Serverless Architecture", "microservices", "Progressive web applications", "Single page applications"],
     currentProject: "I am developing a Framework https://native-piece.com/",
     funFact: "There are two ways to write error-free programs; only the third one works"
-};
+} as const;
 ```
 
 <!---
