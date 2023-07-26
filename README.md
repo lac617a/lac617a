@@ -8,11 +8,11 @@
 const YOYDEV = {
     pronouns: "Yoydev",
     code: ["Javascript", "Typescript", "HTML", "CSS", "SASS"],
-    askMeAbout: ["web dev", "tech", "app dev", "dev lead"],
+    askMeAbout: ["web dev", "tech", "app dev", "frontend lead"],
     technologies: {
         mobileApp: ["React Native"],
         frontEnd: {
-            js: ["React", "Nextjs"],
+            js: ["Reactjs", "Nextjs"],
             css: ["native-piece", "emotion/styled", "styled-components"]
         },
         backEnd: {
